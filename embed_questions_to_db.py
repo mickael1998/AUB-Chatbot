@@ -28,7 +28,8 @@ def main():
             question TEXT,
             answer TEXT,
             embedding BLOB,
-            section TEXT
+            section TEXT,
+            section_is_program BOOLEAN
         )
     """)
 
@@ -37,13 +38,14 @@ def main():
         question = entry["question"]
         answer = entry["answer"]
         section = entry.get("section") or entry.get("program")
+        section_is_program = 0 if section == "General Knowledge" else 1
         embedding = get_openai_embedding(question)
         # Convert non-string answers to JSON string
         if not isinstance(answer, str):
             answer = json.dumps(answer, ensure_ascii=False)
         c.execute(
-            "INSERT INTO faq (question, answer, section, embedding) VALUES (?, ?, ?, ?)",
-            (question, answer, section, json.dumps(embedding))
+            "INSERT INTO faq (question, answer, section, embedding, section_is_program) VALUES (?, ?, ?, ?, ?)",
+            (question, answer, section, json.dumps(embedding), section_is_program)
         )
         print(f"Inserted: {question}")
 
