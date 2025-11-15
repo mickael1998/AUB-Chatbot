@@ -1,0 +1,2000 @@
+<REPLACED_WITH_CANONICAL_CONTENT>
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "Tell me about the Cybersecurity program.",
+    "answer": "The online graduate professional diploma in Cybersecurity equips you with essential, highly in-demand technical skills to confidently take on cybersecurity roles. The program covers a broad range of current and emerging areas, including computer and network security, software security, data security, cloud security, and IoT security, as well as applied cryptography and computer forensics."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "When does the Cybersecurity program start?",
+    "answer": "The program is scheduled to start on January 12, 2026."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What is the application deadline for the Cybersecurity program?",
+    "answer": "The deadline to apply for the program is January 7, 2026."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What is the delivery format and course structure of the Cybersecurity program?",
+    "answer": "All courses are 100% online. The structure consists of pre-recorded lectures that you can watch at your own pace within regular deadlines, combined with one weekly online live interactive session with instructors and peers. All live sessions are recorded for later viewing. You also get support through interactive virtual lab sessions for course assignments and from teaching assistants during virtual office hours."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What are the tuition fees and payment options of the Cybersecurity program?",
+    "answer": "The total program tuition is $4,200. Flexible payment options include a 'Pay as you go' plan at $700 per course. There is also an 'Early Bird' discount: if you pay in full before the start date, you receive a 10% reduction, making the total tuition $3,780. You can pay online via a payment gateway link or by cash at the AUB cashier's office."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What are the benefits of taking the Cybersecurity program?",
+    "answer": "The key benefits include: 1- Gaining job-ready cybersecurity skills. 2- Earning a professional diploma from AUB, the #1 university in the region for employability. 3- Engaging in hands-on learning through virtual labs. 4- Preparing for CEH and ISC2 certifications, with exclusive access to the CEH exam for just $200 (down from $950). 5- Getting certified in less than a year. 6- Receiving direct support from English and Arabic speaking teaching assistants."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "Who is eligible to pursue the Cybersecurity program?",
+    "answer": "The program is ideal for young IT professionals, network engineers, system administrators, fresh graduates of computer science or computer engineering, and working professionals with programming knowledge looking to switch careers. Applicants must have an undergraduate bachelor's degree, basic knowledge of computer programming (at least one language), and meet the English Language Proficiency Requirement (ELPR)."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What are the English language proficiency requirements for the cybersecurity diploma?",
+    "answer": "Applicants need to provide a valid score from one of the following tests: AUB-EN (minimum score 32, valid for 1 year), TOEFL iBT (minimum score 80, valid for 2 years), IELTS Academic (minimum score 6.5, valid for 2 years), or Duolingo (minimum score 120, valid for 2 years). Important Note: Applicants who graduated from a university where English is the primary language of instruction may be exempted from this requirement."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "Do I need a cybersecurity background to enroll in the diploma?",
+    "answer": "No, a specific background in cybersecurity is not required. However, applicants will need to have a basic knowledge of IT and programming, with proficiency in at least one programming language. Any programming language is considered appropriate."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What skills will I gain from the Cybersecurity program?",
+    "answer": "Upon completion, you will have gained skills in: 1- Hands-on Network Security, 2- Threat Management, 3- Identity and Access Management, 4- Risk Management, 5- Data & Host Security, and 6- Cryptography and Public Key Infrastructure (PKI)."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What is the curriculum of the Cybersecurity program?",
+    "answer": {
+      "core_courses": [
+        "Fundamentals needed for cybersecurity",
+        "Threats, attacks and vulnerabilities",
+        "Cryptography and PKI infrastructure",
+        "Information security management",
+        "Network security I",
+        "Ethical hacking I"
+      ],
+      "elective_courses_instruction": "Choose one of the following:",
+      "elective_courses": [
+        "Network security II",
+        "Ethical hacking II"
+      ]
+    }
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What are the study plan options of the Cybersecurity program?",
+    "answer": "There is a 1-year part-time study plan created for working individuals, providing a balance between studies and professional commitments by taking one course per semester. A 6-month full-time study plan is also an option, but it is not currently available."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "Who are the instructors of the Cybersecurity program?",
+    "answer": [
+      {
+        "name": "Hussein Bakri",
+        "expertise": "Lecturer in ECE. Expert in offensive cyber security, software engineering, ethical hacking, and AI."
+      },
+      {
+        "name": "Ali Chehab",
+        "expertise": "Professor and Chairperson of ECE. Expert in Cryptography, Network Security, and Software Development."
+      },
+      {
+        "name": "Khaled Dessouki",
+        "expertise": "PhD in Cybersecurity. Expert in software development, cybersecurity, and networking. Founder of Ubility."
+      },
+      {
+        "name": "Iman Ghalayini",
+        "expertise": "Expert in securing networks, information assets, and online services. Certified in CEH, CISSP, CISA, and more."
+      },
+      {
+        "name": "Ayman Tajeddine",
+        "expertise": "Ph.D. in Electrical & Computer Engineering. Expert in cybersecurity, digital forensics, and networking."
+      }
+    ]
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What certificate do I get upon completion of the Cybersecurity program and what are its details?",
+    "answer": "Upon successful completion, you will receive a professional diploma certificate issued by the Maroun Semaan Faculty of Engineering and Architecture (MSFEA), signed by the Dean and the MSFEA Online Director. The certificate does not explicitly state 'online' and it does not have an expiry date."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "Are there any scholarships or financial aid opportunities available for the Cybersecurity program?",
+    "answer": "Currently, there are no financial aid or scholarship offers for online programs. However, you can benefit from an 'Early Bird' discount of 10% by paying the full tuition fee before the start of the program."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What is the refund policy for the Cybersecurity program?",
+    "answer": "Refunds are only allowed within 7 days of the course start date. This period allows you to assess the course content and determine if the program is a good fit for you."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What is the minimum passing grade required for the Cybersecurity program?",
+    "answer": "The minimum passing grade for the courses within this diploma is 70, which corresponds to a C+."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What is the value of a professional diploma from AUB?",
+    "answer": "Our professional diplomas are valuable for two main reasons. First, they focus on upskilling you in high-demand areas and equipping you with practical skills for the job market. Second, they have an academic bearing, which means you may be able to waive up to six credits if you later decide to enroll in a relevant master's degree at AUB."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "How can I get more information about the Cybersecurity program?",
+    "answer": "For more information, you can contact the program via WhatsApp at +96181610900 or by email at cybersecuritydiploma@aub.edu.lb."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "Tell me about the AI & Data Science program.",
+    "answer": "The 'Artificial Intelligence & Data Science' online Professional Graduate Diploma is the first of its kind in the MENA region, providing you with the skills needed to design and implement AI and DS applications. It focuses on regionally relevant applications, integrates ethics as a core component, and offers an ideal mix of theoretical knowledge with practice-oriented studies. Students from all backgrounds are welcome."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "When does the AI & Data Science program start?",
+    "answer": "The start date is January 12, 2026."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What is the application deadline of the AI & Data Science program?",
+    "answer": "The application deadline is January 7, 2026."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What is the delivery format and course schedule of the AI & Data Science program?",
+    "answer": "All courses are 100% online. The format includes pre-recorded lectures you can access at your convenience within regular deadlines, combined with one weekly synchronous interactive live session with instructors and students. All live sessions are recorded for later viewing. There is also an opportunity for an optional site visit for hands-on learning from real-world projects."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What is the total tuition and are there payment plans of the AI & Data Science program?",
+    "answer": "The base tuition is $3,600 (excluding preparatory courses). For learners that need to take the prerequisite courses, the total is $4,500. Flexible payment options include 'Pay as you go' at $300 per credit, or an 'Early bird' 10% reduction if you pay in full before the program starts."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "Should I have experience in AI to pursue the AI & Data Science program?",
+    "answer": "No, prior experience in artificial intelligence is not required. The program welcomes students from all backgrounds. Three preparatory courses are available to equip you with the necessary tools if you are new to the field."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What are the benefits of enrolling in the AI & Data Science program?",
+    "answer": "You will: 1- Gain advanced knowledge in data science principles for AI applications. 2- Attain a comprehensive understanding of ethical issues related to AI. 3- Leverage the expertise of world-renowned professors. 4- Earn a career-centric degree blending theory and practical skills."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "Who can attend the AI & Data Science program?",
+    "answer": "The program is designed for: 1- Fresh graduates from all backgrounds interested in tech. 2- Working professionals seeking to enhance their knowledge and skills in AI & DS. 3- Any applicants from any background interested in this exciting field."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What are the admission requirements for the AI & Data Science program?",
+    "answer": "Applicants must have an undergraduate bachelor's degree from a recognized institution. They must also meet the English Language Proficiency Requirement (ELPR) with a valid score from tests like TOEFL iBT (80), IELTS Academic (6.5), or Duolingo (120); exemptions may apply for graduates from universities where English is the language of instruction. Applicants with no prior relevant background will be required to take up to 3 preparatory courses."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "Can I enroll in the AI & Data Science program without a bachelor's degree?",
+    "answer": "No, a bachelor's degree is required as it is a postgraduate program. However, if you do not have a bachelor's degree, you can take the courses individually (à la carte) and will receive a certificate of completion for each course."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "How do I know if I need to take the prerequisite courses for the AI & Data Science program?",
+    "answer": "A committee decides if an applicant needs foundational courses. Applicants from relevant majors like computer science or engineering are usually waived. Applicants from other majors will most likely need to take prerequisites. It is best to apply as early as possible for a clear determination."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "Can I take the preparatory and core courses at the same time for the AI & Data Science program?",
+    "answer": "No, prerequisites must be completed 2 weeks before the core courses begin. The prerequisite courses are self-paced, and you can only get access to core courses after successfully passing them with a grade of 70 (C+) or higher."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What skills will I gain from the AI & Data Science program?",
+    "answer": "You will gain: 1- Advanced knowledge in data science principles. 2- Up-to-date skills to train various machine learning models. 3- Expertise in building real-world AI applications in various domains (e.g., Arabic NLP, business, health). 4- A comprehensive understanding of ethical issues in AI."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What courses are in the curriculum of the AI & Data Science program?",
+    "answer": {
+      "prerequisite_courses": [
+        "Introduction to Python Programming",
+        "Statistics",
+        "Mathematics of Machine Learning"
+      ],
+      "core_courses": [
+        "Machine Learning",
+        "Deep Learning",
+        "Data Science",
+        "AI Ethics"
+      ],
+      "elective_courses": [
+        "Arabic Natural Language Processing",
+        "Business Analytics",
+        "AI for Health",
+        "Data Analytics for Public Policy",
+        "Large Language Models"
+      ]
+    }
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What are the study plan options for the AI & Data Science program?",
+    "answer": "There is a 9-month full-time study plan ideal for those without other commitments, and a 1-year+ part-time study plan designed for working individuals."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What kind of student support is available for the AI & Data Science program?",
+    "answer": "The program features interactive online sessions, innovative learning tools, digital study material, tutorial videos, and student support through our Teaching Assistants (TAs)."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "Who are the instructors for the AI & Data Science program?",
+    "answer": [
+      { "name": "Fatima Abu Salem", "expertise": "PhD in Computing. Expert in Applied Artificial Intelligence and applied data science for impact." },
+      { "name": "Abbas Alhakim", "expertise": "Postdoctoral researcher. Expert in Building Physics and Sustainable design." },
+      { "name": "Rida Assaf", "expertise": "PhD in Computer Science. Expert in Artificial Intelligence and Bioinformatics." },
+      { "name": "Mariette Awad", "expertise": "PhD in ECE. Expert in Artificial Intelligence and Machine Learning." },
+      { "name": "Karim Barakat", "expertise": "PhD in Philosophy. Expert in Social and Political Philosophy." },
+      { "name": "Hans D. Muller", "expertise": "Professor of Ecosystem Management. Expert on Food System Resilience and Sustainability." },
+      { "name": "Khalil El Asmar", "expertise": "PhD in Clinical Research. Expert in Statistical Applications in Psychiatry." },
+      { "name": "Shady Elbassuoni", "expertise": "PhD in Computer Science. Expert in Machine Learning." },
+      { "name": "Sabine El Khoury", "expertise": "Associate Professor, Department of Chemical Engineering. Sustainability champion." },
+      { "name": "Mireille Makary", "expertise": "PhD in Information Retrieval. Expert in NLP, Machine Learning and Generative AI." },
+      { "name": "Sophie Moufawad", "expertise": "PhD in Applied Mathematics. Expert in Numerical Analysis and High Performance Computing." },
+      { "name": "Saeed Raheel", "expertise": "PhD in Information and Communication Sciences. Expert in Programming Languages and Software Development." },
+      { "name": "Mazen Saghir", "expertise": "PhD in Electrical and Computer Engineering. Expert in Computer Architecture and Embedded Machine Learning." },
+      { "name": "Sirine Taleb", "expertise": "PhD in Computer and Communications Engineering. Expert in Machine Learning and Business Analytics." }
+    ]
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What is the typical class profile for the AI & Data Science program?",
+    "answer": "While class profiles vary by cohort, our online certificates generally attract a highly diverse audience in terms of professional experience, industry, and geography, which leads to a very rich peer learning and networking experience."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What is the minimum passing grade for the AI & Data Science program?",
+    "answer": "The minimum passing grade for the courses within this diploma is 70, which corresponds to a C+."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What payment methods are accepted?",
+    "answer": "You can pay either online via a payment gateway link or by cash at the AUB cashier's office. Payments must be made in USD. Corporate tuition rates are also available."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What is the refund policy?",
+    "answer": "Refunds are only allowed within seven days of the course's start date. This period allows you to assess the course content and determine if the program is a good fit." 
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "Are there any scholarships or financial aid opportunities?",
+    "answer": "Currently, there are no financial aid or scholarship offers for online programs. However, you can receive a 10% deduction by taking advantage of the early bird offer and paying the full tuition fee before the program starts."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What certificate do I get upon completion of the AI & Data Science program and what are its details?",
+    "answer": "Upon completion, you will receive a professional diploma issued by the Maroun Semaan Faculty of Engineering and Architecture (MSFEA). You will get a digital copy, with a hard copy available on request. The diploma does not state that the program was completed 'online' and it does not have an expiry date." 
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "How long will I have access to the course learning materials of the AI & Data Science program?",
+    "answer": "Your access to the online learning platform and course content will remain for 12 months following the program's end date." 
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What is the value of AUB's professional diplomas?",
+    "answer": "The diplomas are valuable for upskilling in high-demand fields and equipping you with practical knowledge. They also have an academic bearing, meaning you may be able to waive up to six credits if you decide to enroll in a relevant master's degree at AUB later." 
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "How can I get more information about the AI & Data Science program?",
+    "answer": "For more information, you can contact the program via WhatsApp at +961013766 or by email at ds-ai@aub.edu.lb." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "Tell me about the Project Management Diploma program.",
+    "answer": "The Online Professional Graduate Diploma in Project Management provides a comprehensive understanding of managing complex projects. It equips you with the necessary skills to organize, plan, and execute projects on time and in full, making it suitable for both fresh graduates and working professionals looking to develop their project management skills."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "When does the Project Management Diploma program start?",
+    "answer": "The program is scheduled to start on January 12, 2026." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What is the application deadline for the Project Management Diploma program?",
+    "answer": "The application deadline is January 7, 2026." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What is the format and schedule of the Project Management Diploma?",
+    "answer": "The diploma is 100% online and consists of 6 courses (12 credits). The schedule includes pre-recorded lectures for self-paced learning within regular deadlines, plus one live online interactive session per week with instructors and peers. These sessions are recorded for later viewing. An optional site visit is also available for hands-on learning."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "Does the Project Management Diploma program prepare me for the PMP exam?",
+    "answer": "Yes, for those interested in getting their PMP certification, the program offers a PMP® exam preparation course as an elective. This course is designed to get you ready to sit for and pass the PMP® exam." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "Can I take the PMP course à la carte?",
+    "answer": "Yes, you can take the PMP course as an individual à la carte course or as one of the elective courses within the diploma." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What are the benefits of pursuing the Project Management Diploma program?",
+    "answer": "The benefits include: \n1- Earning a respected certificate from AUB and ZAKA. \n2- A flexible 8-week online structure to fit your schedule. \n3- Localized examples and insights into Arabic LLMs. \n4- An impactful and financially accessible program. \n5- Hands-on experience with real-world AI tools. \n6- Building a crucial understanding of responsible AI use." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "Who is eligible to enroll in the Project Management Diploma program and what are the requirements?",
+    "answer": "The program is for fresh graduates from all backgrounds and working professionals in project-related fields. Applicants must have: 1- An undergraduate bachelor's degree from a recognized institution. 2- A GPA of 3.0 or higher in the last two years of study, or strong work experience. 3- The English Language Proficiency Requirement (ELPR)." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "Can I enroll in the Project Management Diploma program without a bachelor's degree?",
+    "answer": "A bachelor's degree is required to enroll in the PM online diploma program. However, if you do not have a bachelor's degree, you can take the courses individually (à la carte) and will receive a certificate of completion for each one." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What are the English language proficiency requirements?",
+    "answer": "Applicants need to provide a valid score from one of the following tests: AUB-EN (minimum score 32, valid for 1 year), TOEFL iBT (minimum score 80, valid for 2 years), IELTS Academic (minimum score 6.5, valid for 2 years), or Duolingo (minimum score 120, valid for 2 years). Applicants who graduated from a university where English is the primary language of instruction may be exempt." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What skills will I gain from the Project Management Diploma program?",
+    "answer": "You will gain: 1- A comprehensive understanding of technical and business-related project issues. 2- Readiness to sit for the PMP® exam. 3- Skills for managing complex projects, including planning, control, and risk management. 4- Leadership, communication, and critical thinking skills. 5- Hands-on experience through real-world projects." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What is the program curriculum and structure?",
+    "answer": {
+      "overview": "To complete the diploma, you need to take 6 courses: 2 core courses and 4 elective courses from the tracks below.",
+      "track_1": {
+        "name": "Construction Management",
+        "core_courses": [ "Fundamentals of project management", "Project planning, scheduling and control", "Construction project delivery and contracting", "Construction contract administration and legal aspects" ]
+      },
+      "track_2": {
+        "name": "Adaptive and Strategic Project Management",
+        "core_courses": [ "Fundamentals of project management", "Project planning, scheduling and control" ]
+      },
+      "electives": {
+        "instruction": "Electives are chosen from the following list based on your track requirements:",
+        "list": [ "Agile project management", "Accounting and finance for project managers", "Lean project management", "Software project management", "Conflict resolution in project management", "Project risk management", "Project leadership and communication", "PMP Exam – preparation course", "Procurement and supply chain in project management" ]
+      }
+    }
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What is the cost of the Project Management Diploma and are there any discounts?",
+    "answer": "The full Project Management diploma costs $3,600. You can 'pay as you go' with individual courses costing $600 each ($300 per credit). For discounts, there is a 10% reduction for early bird payment. Additionally, AUB alumni and members of the Lebanese Army are eligible for a 15% discount." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What are the available payment methods?",
+    "answer": "You can pay online through a payment gateway link or by cash at the AUB cashier's office. Corporate tuition rates are also available; you should schedule a call with the program for more information." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What is the refund policy for the Project Management Diploma?",
+    "answer": "Refunds are permitted only within the first seven days of the course's start date, allowing you to assess if the program is a good fit." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What is the minimum passing grade for the Project Management Diploma?",
+    "answer": "The minimum passing grade for courses within this diploma is 70, which corresponds to a C+." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What is the typical class profile for the Project Management Diploma?",
+    "answer": "Class profiles vary, but our online certificates generally attract a diverse group of students in terms of professional experience, industry, and geography, which fosters a rich peer learning and networking environment." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "Who are the instructors of the Project Management Diploma?",
+    "answer": [
+      { "name": "Fadl Bdeir", "expertise": "PhD. Expert in organisational management, leadership, sustainability, and innovation." },
+      { "name": "Farah Demachkieh", "expertise": "PhD. Expert in contract administration, claims and disputes, and project controls." },
+      { "name": "Mayssa Kalash", "expertise": "PhD. Expert in Project Management, Project Delivery Methods, and Lean Methods." },
+      { "name": "Hiam Khoury", "expertise": "Associate Professor. Expert in intelligent monitoring and modeling of construction resources." },
+      { "name": "Bacel Maddah", "expertise": "Professor and Chair. Expert in Retail, Supply Chain, and Stochastic Processes." },
+      { "name": "Imad Moukaddem", "expertise": "PhD. Expert in Software Engineering, Software Architecture, and Data Science." },
+      { "name": "Nabil Nehme", "expertise": "PhD. International Expert in Transport and Infrastructure Economics, and Supply Chain Strategy." },
+      { "name": "Youssef Saad", "expertise": "M.E. Expert in Project, Procurement and Contract Management." },
+      { "name": "Daoud Kiomojian", "expertise": "Manager. Expert in Academic and Industry Applications of Project Management." }
+    ]
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What kind of certificate do I get upon completion of the Project Management Diploma?",
+    "answer": "Upon completion, you will receive a professional diploma issued by the Maroun Semaan Faculty of Engineering and Architecture (MSFEA), signed by the Dean and relevant Director. You will receive a digital copy approximately two weeks after grading is complete, and a hard copy can be issued upon request." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What is the value of AUB's professional diplomas?",
+    "answer": "Our professional diplomas focus on upskilling you in high-demand job market areas with practical skills. They also carry an academic bearing, which may allow you to waive up to six credits if you enroll in a relevant master's degree at AUB in the future." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "How long will I have access to the learning materials of the Project Management Diploma?",
+    "answer": "You will have access to the online learning platform and course content for 12 months after the program's end date." 
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "How can I get more information about the Project Management Diploma?",
+    "answer": "For more information, you can contact the program via WhatsApp at +96170013835 or by email at pmponline@aub.edu.lb." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "Tell me about the program.",
+    "answer": "The 'Sustainability in the Built Environment' online graduate professional diploma provides you with the fundamental skills to tackle the main challenges to the sustainability of buildings, neighborhoods, and infrastructure, particularly in the Arab region. Tailored for engineers and architects, this program will equip you with the essential skills and tools needed to design sustainable projects." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "When does the program start?",
+    "answer": "The program is scheduled to start on September 15, 2026." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What is the application deadline?",
+    "answer": "The application deadline for this program is September 8, 2025." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What is the delivery format of the diploma?",
+    "answer": "All courses are 100% online, offering a personalized pace with regular deadlines. The program culminates in a Capstone Design Project." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What are the tuition fees and payment options?",
+    "answer": "The total program tuition is $4,200. There are flexible payment options, including a 'Pay as you go' plan at $700 per course. You can also get a 10% 'Early bird' reduction by paying in full before the program starts. Payments can be made online via a payment gateway link or by cash at the AUB cashier's office." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What are the benefits of pursuing this program?",
+    "answer": "Key benefits include: 1- Learning to tackle sustainability challenges from a regional perspective. 2- Gaining in-demand skills for top job opportunities. 3- Participating in a multidisciplinary capstone project. 4- Experiencing hands-on learning through an optional on-site visit. 5- Networking with regional industry experts and AUB faculty. 6- Earning a diploma from AUB, ranked 138th worldwide for sustainability." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "Who is eligible to pursue this program?",
+    "answer": "The program is designed for Engineers, Architects, and Planners. Applicants must have an undergraduate bachelor's degree in engineering or architecture from a recognized institution and meet the English Language Proficiency Requirement (ELPR)." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "Can I enroll before I have graduated?",
+    "answer": "Yes, you can enroll if you have a maximum of one year left to complete your undergraduate degree." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What are the English language proficiency requirements?",
+    "answer": "Applicants must provide a valid score from one of the following tests: AUB-EN (minimum score 32, valid for 1 year), TOEFL iBT (minimum score 80, valid for 2 years), IELTS Academic (minimum score 6.5, valid for 2 years), or Duolingo (minimum score 120, valid for 2 years). An exemption may be granted to applicants who graduated from a university where English is the primary language of instruction." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What skills will I gain from this diploma?",
+    "answer": "You will gain: 1- An in-depth understanding of climate change's relation to the built environment. 2- Proficiency in sustainability assessment. 3- Decision-making skills for a sustainable future. 4- Knowledge of building physics, systems, adaptation, and resilience. 5- The ability to work within multidisciplinary teams. 6- Readiness to sit for the LEED Green Associate (GA) or Pearl Qualified Professional (PQP) international accreditation." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What is the program curriculum?",
+    "answer": {
+      "courses": [
+        "Socio-ecological systems & sustainability in the MENA region",
+        "Environmental life cycle assessment (LCA)",
+        "Construction materials circularity",
+        "Environmentally responsive new and existing buildings",
+        "Resilient buildings’ design",
+        "Building rating system",
+        "Capstone project"
+      ]
+    }
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What is the study plan?",
+    "answer": "The program offers a 1 year+ part-time study plan. This plan is created for working individuals, providing the balance needed between pursuing studies and managing professional commitments by taking only one course per semester." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What is the course schedule like?",
+    "answer": "The courses consist of pre-recorded lectures that can be accessed at your convenience, but you must adhere to regular deadlines. Each course includes one live online interactive session per week with instructors and peers. These live sessions are recorded in case you cannot attend. There is also an option to go on a site visit for hands-on learning." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "Who are the instructors?",
+    "answer": [
+      {
+        "name": "Douaa Al Assaad",
+        "expertise": "Postdoctoral researcher. Expert in Building Physics and Sustainable design for human well-being."
+      },
+      {
+        "name": "Sarah Jaber",
+        "expertise": "Associate Director of Sustainability. Expert in strategy & framework development, circular economy, and green building."
+      },
+      {
+        "name": "Rima Manneh",
+        "expertise": "PhD in Chemical Engineering. Sustainability Independent Consultant and expert in Life Cycle Assessment (LCA)."
+      },
+      {
+        "name": "Walid Saad",
+        "expertise": "Associate Professor. Sustainability champion with diverse industrial, startup, and consulting experience."
+      },
+      {
+        "name": "Issam Srour",
+        "expertise": "Professor. Expert on quantitative techniques, circular economy, and sustainability principles in engineering."
+      },
+      {
+        "name": "Alissar Yehya",
+        "expertise": "Assistant Professor. Co-founder of a circular supply chain tech startup. Expert in sustainable systems and circular design."
+      },
+      {
+        "name": "Aram Yeretzian",
+        "expertise": "Assistant Professor. Advocate for climate responsive and low environmental impact architecture."
+      },
+      {
+        "name": "Rami Zurayk",
+        "expertise": "Professor of Ecosystem Management. Expert on Food System Resilience and Sustainability."
+      }
+    ]
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What certificate do I get upon completion and what are its details?",
+    "answer": "Upon program completion, you will receive a professional diploma certificate issued by the Maroun Semaan Faculty of Engineering and Architecture (MSFEA). The certificate does not state 'online' and it does not have an expiry date." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "Are there any scholarship or financial aid opportunities?",
+    "answer": "Currently, there are no financial aid or scholarship offers for online programs. However, you can receive a 10% deduction on the tuition fee by taking advantage of the 'early bird' offer and paying in full before the program starts." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What is the refund policy?",
+    "answer": "Refunds are allowed only within the first seven days of the course start date. This period is designed to let you assess the course content and determine if the program is a good fit." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What is the minimum passing grade?",
+    "answer": "The minimum passing grade for the courses within this diploma is 70, which corresponds to a C+." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What is the value of AUB's professional diplomas?",
+    "answer": "The professional diplomas are valuable for upskilling in high-demand job market areas and providing practical skills. They also have an academic bearing, which could allow you to waive up to six credits if you later enroll in a relevant master's degree at AUB." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "Can I freeze my enrollment?",
+    "answer": "Yes, you can freeze your enrollment one time only, for a maximum period of one semester." 
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "How can I get more information?",
+    "answer": "For more information, you can contact the program via WhatsApp at +96170013766 or by email at SBEdiploma@aub.edu.lb." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What are the English language proficiency requirements for the UX/UI diploma?",
+    "answer": "To prove English proficiency, applicants must submit a valid score from one of these tests: AUB-EN (minimum score 32, valid for 1 year), TOEFL iBT (minimum score 80, valid for 2 years), IELTS Academic (minimum score 6.5, valid for 2 years), or Duolingo (minimum score 120, valid for 2 years). An exemption is possible for graduates of universities where English is the primary language of instruction." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "Do I need a design background to enroll in the UX/UI diploma?",
+    "answer": "No, a design background is not required. You can take the one-credit prerequisite course, 'Design Principles / UI Design for Non-designers,' to learn the main principles and best practices of design. Completing this prerequisite will prepare you to start the UX/UI program." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "When does the UX/UI program start?",
+    "answer": "The program starts on January 12, 2026." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "Are the courses online?",
+    "answer": "Yes, all courses are fully online." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What is the course schedule like for the UX/UI program?",
+    "answer": "The courses are made up of pre-recorded lectures that you can access at your convenience. Each course also includes one weekly online live interactive session with instructors and fellow students. All live sessions are recorded in case you are unable to attend." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "How long does it take to complete the UX/UI program?",
+    "answer": "The program can be completed in less than a year." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What is the tuition for the UX/UI program?",
+    "answer": "The total tuition ranges between $3,600 and $3,900, depending on whether you need to take the prerequisite course." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What are the methods of payment for tuition?",
+    "answer": "You can settle tuition fees by either paying online, in which case you will receive a payment gateway link, or by paying with cash at AUB, for which an invoice will be issued for you to present at the cashier's office." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "Are there flexible payment options for the UX/UI program?",
+    "answer": "Yes. You can pay as you go per course at $600 each term, or take advantage of the early bird discount by paying the full tuition in advance to receive a 10% reduction, bringing the total down to $3,600 or $3,900 if you need the prerequisite course." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What is the application deadline for the UX/UI program?",
+    "answer": "The application deadline is January 7, 2026." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What do I receive when I complete the UX/UI diploma?",
+    "answer": "Upon completion, you will receive a professional diploma certificate issued by the Maroun Semaan Faculty of Engineering and Architecture (MSFEA). The certificate is signed by the Dean of MSFEA and the Director of the Abdulla al Ghurair Hub for Digital Teaching and Learning." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "Does the diploma certificate explicitly state that the program is 'online'?",
+    "answer": "No, the diploma does not state 'online'. All our programs are high-quality educational offerings from AUB faculty members and industry experts that utilize advanced online learning technology." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "Does the diploma have an expiration date?",
+    "answer": "No, the diploma does not have an expiry date." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "Are there any scholarship or financial aid opportunities?",
+    "answer": "Currently, there are no specific financial aid or scholarship offers for online programs. However, you can receive a 10% discount by paying the full tuition fee early through the 'early bird seat' offer." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What is the refund deadline?",
+    "answer": "Refunds are only available within seven days of the course start date. This period allows you to experience the course content and decide if it is a good fit for you." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What is the minimum passing grade for the courses to receive the diploma?",
+    "answer": "The minimum passing grade for the courses in this diploma is 70 (C+)." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What is the value of AUB's professional diplomas?",
+    "answer": "Our professional diplomas are valuable because they help you upskill in high-demand job market areas with practical knowledge. They also have an academic bearing, which might allow you to waive up to six credits if you choose to enroll in a related master's degree at AUB in the future." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What is the UX/UI Online Diploma program about?",
+    "answer": "The UX/UI program is a professional diploma that introduces students to user experience (UX) and user interface (UI) design through a design-centric approach. It provides skill-based instruction focused on 'Design Thinking' processes and agile production, covering user research, project strategy, sitemaps, wireframes, and more. Students gain hands-on experience and real-life industry applications." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What are the benefits of the UX/UI program?",
+    "answer": "Benefits include learning UX/UI even without prior design experience, designing intuitive human-centered experiences, benefiting from Arabic-speaking instructors, joining the first regional academic UX/UI program, getting certified in less than a year, and becoming an expert in regionally relevant designs such as right-to-left interfaces." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "Who are the best candidates for the UX/UI program?",
+    "answer": "The program is ideal for professionals working in tech or design agencies, graphic or instructional designers seeking to expand their expertise, entrepreneurs developing prototypes for investors, and young professionals seeking an in-demand skill. Applicants must hold a bachelor’s degree from a recognized institution and meet the English Language Proficiency Requirement (ELPR)." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What skills will I gain from the UX/UI program?",
+    "answer": "You will learn user-centered design principles, personas, and journey mapping; work on hands-on projects and real-life case studies; design visually appealing and user-friendly interfaces for both left-to-right and right-to-left languages; use advanced tools like Figma; and master the creation of prototypes." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What does the curriculum of the UX/UI program include?",
+    "answer": "The curriculum includes a prerequisite course for non-designers on design principles, followed by six core courses: Design Research for Innovation and Change, Interaction Design I, Interaction Design II, Interaction Design III, Interaction Design IV, and UX Strategy and Management." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What study plans are available for the UX/UI program?",
+    "answer": "You can choose a 9-month full-time study plan, ideal for those who can dedicate themselves fully to their studies, or a 1-year part-time study plan, designed for working professionals balancing education with other commitments." 
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "Who are the instructors for the UX/UI program?",
+    "answer": "The instructors include Maher Berro (Interaction Designer), Lara Chikhani (Design & Product Management Lead), Stephanie Assio (Experience & Innovation Consultant), Tarek El Khatib (Associate Experience Designer at EPAM), Sabah Haider (User Experience Research Lead), and Romy Saber (CMO at Suyool)." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What are the English language requirements for the online programs?",
+    "answer": "Applicants must provide evidence of English proficiency by submitting a valid score from one of these tests: AUB-EN (minimum score 32), TOEFL iBT (minimum score 80), IELTS Academic (minimum score 6.5), or Duolingo (minimum score 120). Applicants who graduated from a university where English is the primary language of instruction may be exempt." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What will I receive upon completing the ITC program?",
+    "answer": "Upon program completion, you will receive a professional certificate issued by the Maroun Semaan Faculty of Engineering and Architecture (MSFEA), signed by the Dean and the Director of the Abdulla al Ghurair Hub for Digital Teaching and Learning." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Does the certificate state that the program is 'online'?",
+    "answer": "No, the certificate does not mention that the program is online." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Does the certificate have an expiry date?",
+    "answer": "No, the certificate does not have an expiry date." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Are there any special discounts available besides the early bird offer for the ITC program?",
+    "answer": "Yes. In addition to the 10% early bird discount, we also offer special corporate discounts for groups of five or more. We encourage you to explore potential company sponsorship options for yourself and your team." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "When is the refund deadline?",
+    "answer": "Refunds are allowed only within seven days of the course start date." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "When does the ITC program start?",
+    "answer": "The program starts on September 29, 2025." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What is the application deadline for the ITC program?",
+    "answer": "The application deadline is September 25, 2025." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "How long does a typical ITC program last?",
+    "answer": "The program generally consists of 4 courses completed over 4 months, with a pace of one course per month." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What is the weekly time commitment for the ITC program?",
+    "answer": "The program requires an average of 5 to 6 hours of work per week." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What is the tuition fee for the ITC program?",
+    "answer": "The total tuition is $1,750 for the full program." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Is there a per-course tuition option for the ITC program?",
+    "answer": "Yes. The tuition per course is $437.50." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Are there any tuition discounts available for the ITC program?",
+    "answer": "Yes. An early bird discount is available for those who pay in full before the program starts, reducing the total tuition to $1,575 instead of $1,750." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Is the ITC program fully online?",
+    "answer": "The program offers flexibility. It is primarily delivered fully online through modules and live workshops, but a hybrid format with in-person workshops can be arranged based on demand." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What is the learning pace like for the ITC program?",
+    "answer": "The learning is a blend of self-paced study of weekly online modules and assignments, combined with live, interactive instructor sessions that offer personalized feedback. Each course also has a concluding workshop for practical application." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Will I get feedback on my work?",
+    "answer": "Yes, you will apply what you learn to your ongoing work each week and receive personalized feedback from technical communication experts." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Are there any live sessions or workshops?",
+    "answer": "Yes, each course includes an interactive one-day workshop, which may be conducted online or in person based on demand." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What is the ITC program about?",
+    "answer": "The Intelligent Technical Communication (ITC) certificate equips technical professionals, especially those working in MENA contexts, with the skills to communicate complex ideas with clarity, impact, and technical fluency. It integrates human, emotional, and artificial intelligence to help participants deliver audience-centered communication across verbal, written, and visual formats." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What is the core focus of the Intelligent Technical Communication certificate?",
+    "answer": "The certificate equips technical professionals, especially in MENA contexts, to communicate complex ideas with clarity and impact. It strategically emphasizes three core elements: Human Technical Intelligence and Expertise, Emotional Intelligence in Communication, and Leveraging Artificial Intelligence Tools." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What are the main highlights of the ITC program?",
+    "answer": "The program emphasizes three core areas: \n1) Human Technical Intelligence and Expertise, helping participants communicate complex information effectively across formats, \n2) Emotional Intelligence in Communication, enhancing interpersonal skills such as empathy and active listening, and \n3) Leveraging Artificial Intelligence Tools, using AI ethically to streamline workflows and improve communication." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What are the key learning expectations for the ITC program?",
+    "answer": "Students are expected to practice clear communication of complex technical content in written, verbal, and visual formats. They will apply concepts to their daily work, receive personalized feedback, develop reflexive skills for the MENA context, gain hands-on experience with AI tools, and participate in interactive workshops to build confidence." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What are the unique benefits of the ITC program?",
+    "answer": "Unique benefits include enhanced emotional and interpersonal intelligence, industry-relevant communication skills, improved work output, AI-enhanced communication tools, culturally and ethically grounded communication, and a personalized hybrid and interactive learning experience." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What skills will I gain from the ITC program?",
+    "answer": "You will gain skills in effective data narration, emotionally intelligent communication, AI-enhanced presentation design, culturally sensitive technical writing, and AI-powered visual storytelling." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What does the course path for the ITC program look like?",
+    "answer": "The program consists of four courses completed over four months. The path is: Month 1: Strategies for Technical Communication, Month 2: Effective Technical Writing, Month 3: Data Visualization and Visual Narratives, and Month 4: Designing and Delivering Technical Presentations." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Who is the ideal candidate for the Intelligent Technical Communication program?",
+    "answer": "The program is designed for engineers from various disciplines and other technical professionals such as STEM practitioners, project managers, and technical sales professionals who want to enhance their communication skills for professional growth." 
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Who is the instructor for the ITC program?",
+    "answer": "The program is led by Niveen Abi Ghannam, Director of the Communication Program at MSFEA, an experienced researcher and educator in science and technical communication with over a decade of teaching experience at the University of Texas at Austin and the American University of Beirut (AUB)." 
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What is the AI Starter Kit program?",
+    "answer": "The AI Starter Kit is an 8-week, hands-on online professional certificate designed to empower professionals and youth to use AI without needing complex coding knowledge. It is a partnership between AUB and ZAKA, focusing on real-world applications and making AI relevant to the region." 
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "Who can apply for the AI Starter Kit program?",
+    "answer": "The program is open to anyone interested in learning how to use AI tools effectively. The only specific requirement is English language proficiency." 
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "Do I need a technical or coding background for the AI Starter Kit program?",
+    "answer": "No, a technical background is not required. The program is specifically designed for total beginners and focuses on applying AI tools without needing to code." 
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What skills will I learn in the AI Starter Kit program?",
+    "answer": "You will master practical skills and tools for: Automating tasks, analyzing data, creating captivating content (visual, audio, video), and optimizing your daily workflow. The program also focuses on ethical considerations, data privacy, and bias awareness." 
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "How long is the AI Starter Kit program?",
+    "answer": "The program is structured to be completed in 8 weeks, with one module covered each week." 
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What is the weekly time commitment for the AI Starter Kit program?",
+    "answer": "The program requires an average of 5 to 6 hours of work per week." 
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What is the learning format of the AI Starter Kit program?",
+    "answer": "The program uses a flexible format that includes online self-paced modules with regular deadlines, live online hands-on sessions, and real-world applications." 
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "Is the AI Starter Kit program's content relevant to the MENA region?",
+    "answer": "Yes, the program is designed to be highly relevant to the region. It features localized content and provides insights into both English and Arabic Large Language Models (LLMs)." 
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What topics are covered in the AI Starter Kit program?",
+    "answer": "The 8-week program covers: \nWeek 1: Getting Started with Artificial Intelligence\nWeek 2: Generative AI and Large Language Models\nWeek 3: AI-Powered Insight and Action\nWeek 4: Workflow Optimization and Task Automation\nWeek 5: Creating Visual, Audio, and Video Content with AI\nWeek 6: Enhancing Digital Productivity through AI\nWeek 7: AI-Enhanced Reporting and Visualization\nWeek 8: Responsible and Ethical Use of AI in the Workplace" 
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What certificate do I receive upon completion of the AI Starter Kit program?",
+    "answer": "Upon successful completion, you will receive a professional certificate issued by AUB's Maroun Semaan Faculty of Engineering and Architecture (MSFEA). The certificate reflects both AUB's academic excellence and ZAKA's industry expertise." 
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "When does the AI Starter Kit program start?",
+    "answer": "The program is scheduled to start on January 12, 2026." 
+  },
+  {
+  {
+    "program": "ITC Diploma",
+    "question": "Does the certificate have an expiry date?",
+    "answer": "No, the certificate does not have an expiry date."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "When does the Cybersecurity program start?",
+    "answer": "The program is scheduled to start on January 12, 2026."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What is the application deadline for the Cybersecurity program?",
+    "answer": "The deadline to apply for the program is January 7, 2026."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What is the delivery format and course structure of the Cybersecurity program?",
+    "answer": "All courses are 100% online. The structure consists of pre-recorded lectures that you can watch at your own pace within regular deadlines, combined with one weekly online live interactive session with instructors and peers. All live sessions are recorded for later viewing. You also get support through interactive virtual lab sessions for course assignments and from teaching assistants during virtual office hours."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What are the tuition fees and payment options of the Cybersecurity program?",
+    "answer": "The total program tuition is $4,200. Flexible payment options include a 'Pay as you go' plan at $700 per course. There is also an 'Early Bird' discount: if you pay in full before the start date, you receive a 10% reduction, making the total tuition $3,780. You can pay online via a payment gateway link or by cash at the AUB cashier's office."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What are the benefits of taking the Cybersecurity program?",
+    "answer": "The key benefits include: 1- Gaining job-ready cybersecurity skills. 2- Earning a professional diploma from AUB, the #1 university in the region for employability. 3- Engaging in hands-on learning through virtual labs. 4- Preparing for CEH and ISC2 certifications, with exclusive access to the CEH exam for just $200 (down from $950). 5- Getting certified in less than a year. 6- Receiving direct support from English and Arabic speaking teaching assistants."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "Who is eligible to pursue the Cybersecurity program?",
+    "answer": "The program is ideal for young IT professionals, network engineers, system administrators, fresh graduates of computer science or computer engineering, and working professionals with programming knowledge looking to switch careers. Applicants must have an undergraduate bachelor's degree, basic knowledge of computer programming (at least one language), and meet the English Language Proficiency Requirement (ELPR)."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What are the English language proficiency requirements for the cybersecurity diploma?",
+    "answer": "Applicants need to provide a valid score from one of the following tests: AUB-EN (minimum score 32, valid for 1 year), TOEFL iBT (minimum score 80, valid for 2 years), IELTS Academic (minimum score 6.5, valid for 2 years), or Duolingo (minimum score 120, valid for 2 years). Important Note: Applicants who graduated from a university where English is the primary language of instruction may be exempted from this requirement."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "Do I need a cybersecurity background to enroll in the diploma?",
+    "answer": "No, a specific background in cybersecurity is not required. However, applicants will need to have a basic knowledge of IT and programming, with proficiency in at least one programming language. Any programming language is considered appropriate."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What skills will I gain from the Cybersecurity program?",
+    "answer": "Upon completion, you will have gained skills in: 1- Hands-on Network Security, 2- Threat Management, 3- Identity and Access Management, 4- Risk Management, 5- Data & Host Security, and 6- Cryptography and Public Key Infrastructure (PKI)."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What is the curriculum of the Cybersecurity program?",
+    "answer": {
+      "core_courses": [
+        "Fundamentals needed for cybersecurity",
+        "Threats, attacks and vulnerabilities",
+        "Cryptography and PKI infrastructure",
+        "Information security management",
+        "Network security I",
+        "Ethical hacking I"
+      ],
+      "elective_courses_instruction": "Choose one of the following:",
+      "elective_courses": [
+        "Network security II",
+        "Ethical hacking II"
+      {
+        "program": "ITC Diploma",
+        "question": "Are there any special discounts available besides the early bird offer for the ITC program?",
+        "answer": "Yes. In addition to the 10% early bird discount, we also offer special corporate discounts for groups of five or more. We encourage you to explore potential company sponsorship options for yourself and your team."
+      },
+    "question": "What are the study plan options of the Cybersecurity program?",
+    "answer": "There is a 1-year part-time study plan created for working individuals, providing a balance between studies and professional commitments by taking one course per semester. A 6-month full-time study plan is also an option, but it is not currently available."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "Who are the instructors of the Cybersecurity program?",
+    "answer": [
+      {
+        "name": "Hussein Bakri",
+        "expertise": "Lecturer in ECE. Expert in offensive cyber security, software engineering, ethical hacking, and AI."
+      },
+      {
+        "name": "Ali Chehab",
+        "expertise": "Professor and Chairperson of ECE. Expert in Cryptography, Network Security, and Software Development."
+      },
+      {
+        "name": "Khaled Dessouki",
+        "expertise": "PhD in Cybersecurity. Expert in software development, cybersecurity, and networking. Founder of Ubility."
+      },
+      {
+        "name": "Iman Ghalayini",
+        "expertise": "Expert in securing networks, information assets, and online services. Certified in CEH, CISSP, CISA, and more."
+      },
+      {
+        "name": "Ayman Tajeddine",
+        "expertise": "Ph.D. in Electrical & Computer Engineering. Expert in cybersecurity, digital forensics, and networking."
+      }
+    ]
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What certificate do I get upon completion of the Cybersecurity program and what are its details?",
+    "answer": "Upon successful completion, you will receive a professional diploma certificate issued by the Maroun Semaan Faculty of Engineering and Architecture (MSFEA), signed by the Dean and the MSFEA Online Director. The certificate does not explicitly state 'online' and it does not have an expiry date."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "Are there any scholarships or financial aid opportunities available for the Cybersecurity program?",
+    "answer": "Currently, there are no financial aid or scholarship offers for online programs. However, you can benefit from an 'Early Bird' discount of 10% by paying the full tuition fee before the start of the program."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What is the refund policy for the Cybersecurity program?",
+    "answer": "Refunds are only allowed within 7 days of the course start date. This period allows you to assess the course content and determine if the program is a good fit for you."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What is the minimum passing grade required for the Cybersecurity program?",
+    "answer": "The minimum passing grade for the courses within this diploma is 70, which corresponds to a C+."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "What is the value of a professional diploma from AUB?",
+    "answer": "Our professional diplomas are valuable for two main reasons. First, they focus on upskilling you in high-demand areas and equipping you with practical skills for the job market. Second, they have an academic bearing, which means you may be able to waive up to six credits if you later decide to enroll in a relevant master's degree at AUB."
+  },
+  {
+    "program": "Cybersecurity Online Diploma",
+    "question": "How can I get more information about the Cybersecurity program?",
+    "answer": "For more information, you can contact the program via WhatsApp at +96181610900 or by email at cybersecuritydiploma@aub.edu.lb."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "Tell me about the AI & Data Science program.",
+    "answer": "The 'Artificial Intelligence & Data Science' online Professional Graduate Diploma is the first of its kind in the MENA region, providing you with the skills needed to design and implement AI and DS applications. It focuses on regionally relevant applications, integrates ethics as a core component, and offers an ideal mix of theoretical knowledge with practice-oriented studies. Students from all backgrounds are welcome."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "When does the AI & Data Science program start?",
+    "answer": "The start date is January 12, 2026."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What is the application deadline of the AI & Data Science program?",
+    "answer": "The application deadline is January 7, 2026."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What is the delivery format and course schedule of the AI & Data Science program?",
+    "answer": "All courses are 100% online. The format includes pre-recorded lectures you can access at your convenience within regular deadlines, combined with one weekly synchronous interactive live session with instructors and students. All live sessions are recorded for later viewing. There is also an opportunity for an optional site visit for hands-on learning from real-world projects."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What is the total tuition and are there payment plans of the AI & Data Science program?",
+    "answer": "The base tuition is $3,600 (excluding preparatory courses). For learners that need to take the prerequisite courses, the total is $4,500. Flexible payment options include 'Pay as you go' at $300 per credit, or an 'Early bird' 10% reduction if you pay in full before the program starts."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "Should I have experience in AI to pursue the AI & Data Science program?",
+    "answer": "No, prior experience in artificial intelligence is not required. The program welcomes students from all backgrounds. Three preparatory courses are available to equip you with the necessary tools if you are new to the field."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What are the benefits of enrolling in the AI & Data Science program?",
+    "answer": "You will: 1- Gain advanced knowledge in data science principles for AI applications. 2- Attain a comprehensive understanding of ethical issues related to AI. 3- Leverage the expertise of world-renowned professors. 4- Earn a career-centric degree blending theory and practical skills."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "Who can attend the AI & Data Science program?",
+    "answer": "The program is designed for: 1- Fresh graduates from all backgrounds interested in tech. 2- Working professionals seeking to enhance their knowledge and skills in AI & DS. 3- Any applicants from any background interested in this exciting field."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What are the admission requirements for the AI & Data Science program?",
+    "answer": "Applicants must have an undergraduate bachelor's degree from a recognized institution. They must also meet the English Language Proficiency Requirement (ELPR) with a valid score from tests like TOEFL iBT (80), IELTS Academic (6.5), or Duolingo (120); exemptions may apply for graduates from universities where English is the language of instruction. Applicants with no prior relevant background will be required to take up to 3 preparatory courses."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "Can I enroll in the AI & Data Science program without a bachelor's degree?",
+    "answer": "No, a bachelor's degree is required as it is a postgraduate program. However, if you do not have a bachelor's degree, you can take the courses individually (à la carte) and will receive a certificate of completion for each course."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "How do I know if I need to take the prerequisite courses for the AI & Data Science program?",
+    "answer": "A committee decides if an applicant needs foundational courses. Applicants from relevant majors like computer science or engineering are usually waived. Applicants from other majors will most likely need to take prerequisites. It is best to apply as early as possible for a clear determination."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "Can I take the preparatory and core courses at the same time for the AI & Data Science program?",
+    "answer": "No, prerequisites must be completed 2 weeks before the core courses begin. The prerequisite courses are self-paced, and you can only get access to core courses after successfully passing them with a grade of 70 (C+) or higher."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What skills will I gain from the AI & Data Science program?",
+    "answer": "You will gain: 1- Advanced knowledge in data science principles. 2- Up-to-date skills to train various machine learning models. 3- Expertise in building real-world AI applications in various domains (e.g., Arabic NLP, business, health). 4- A comprehensive understanding of ethical issues in AI."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What courses are in the curriculum of the AI & Data Science program?",
+    "answer": {
+      "prerequisite_courses": [
+        "Introduction to Python Programming",
+        "Statistics",
+        "Mathematics of Machine Learning"
+      ],
+      "core_courses": [
+        "Machine Learning",
+        "Deep Learning",
+        "Data Science",
+        "AI Ethics"
+      ],
+      "elective_courses": [
+        "Arabic Natural Language Processing",
+        "Business Analytics",
+        "AI for Health",
+        "Data Analytics for Public Policy",
+        "Large Language Models"
+      ]
+    }
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What are the study plan options for the AI & Data Science program?",
+    "answer": "There is a 9-month full-time study plan ideal for those without other commitments, and a 1-year+ part-time study plan designed for working individuals."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What kind of student support is available for the AI & Data Science program?",
+    "answer": "The program features interactive online sessions, innovative learning tools, digital study material, tutorial videos, and student support through our Teaching Assistants (TAs)."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "Who are the instructors for the AI & Data Science program?",
+    "answer": [
+      { "name": "Fatima Abu Salem", "expertise": "PhD in Computing. Expert in Applied Artificial Intelligence and applied data science for impact." },
+      { "name": "Abbas Alhakim", "expertise": "Postdoctoral researcher. Expert in Building Physics and Sustainable design." },
+      { "name": "Rida Assaf", "expertise": "PhD in Computer Science. Expert in Artificial Intelligence and Bioinformatics." },
+      { "name": "Mariette Awad", "expertise": "PhD in ECE. Expert in Artificial Intelligence and Machine Learning." },
+      { "name": "Karim Barakat", "expertise": "PhD in Philosophy. Expert in Social and Political Philosophy." },
+      { "name": "Hans D. Muller", "expertise": "Professor of Ecosystem Management. Expert on Food System Resilience and Sustainability." },
+      { "name": "Khalil El Asmar", "expertise": "PhD in Clinical Research. Expert in Statistical Applications in Psychiatry." },
+      { "name": "Shady Elbassuoni", "expertise": "PhD in Computer Science. Expert in Machine Learning." },
+      { "name": "Sabine El Khoury", "expertise": "Associate Professor, Department of Chemical Engineering. Sustainability champion." },
+      { "name": "Mireille Makary", "expertise": "PhD in Information Retrieval. Expert in NLP, Machine Learning and Generative AI." },
+      { "name": "Sophie Moufawad", "expertise": "PhD in Applied Mathematics. Expert in Numerical Analysis and High Performance Computing." },
+      { "name": "Saeed Raheel", "expertise": "PhD in Information and Communication Sciences. Expert in Programming Languages and Software Development." },
+      { "name": "Mazen Saghir", "expertise": "PhD in Electrical and Computer Engineering. Expert in Computer Architecture and Embedded Machine Learning." },
+      { "name": "Sirine Taleb", "expertise": "PhD in Computer and Communications Engineering. Expert in Machine Learning and Business Analytics." }
+    ]
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What is the typical class profile for the AI & Data Science program?",
+    "answer": "While class profiles vary by cohort, our online certificates generally attract a highly diverse audience in terms of professional experience, industry, and geography, which leads to a very rich peer learning and networking experience."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What is the minimum passing grade for the AI & Data Science program?",
+    "answer": "The minimum passing grade for the courses within this diploma is 70, which corresponds to a C+."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What payment methods are accepted?",
+    "answer": "You can pay either online via a payment gateway link or by cash at the AUB cashier's office. Payments must be made in USD. Corporate tuition rates are also available."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What is the refund policy?",
+    "answer": "Refunds are only allowed within seven days of the course's start date. This period allows you to assess the course content and determine if the program is a good fit."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "Are there any scholarships or financial aid opportunities?",
+    "answer": "Currently, there are no financial aid or scholarship offers for online programs. However, you can receive a 10% deduction by taking advantage of the early bird offer and paying the full tuition fee before the program starts."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What certificate do I get upon completion of the AI & Data Science program and what are its details?",
+    "answer": "Upon completion, you will receive a professional diploma issued by the Maroun Semaan Faculty of Engineering and Architecture (MSFEA). You will get a digital copy, with a hard copy available on request. The diploma does not state that the program was completed 'online' and it does not have an expiry date."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "How long will I have access to the course learning materials of the AI & Data Science program?",
+    "answer": "Your access to the online learning platform and course content will remain for 12 months following the program's end date."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "What is the value of AUB's professional diplomas?",
+    "answer": "The diplomas are valuable for upskilling in high-demand fields and equipping you with practical knowledge. They also have an academic bearing, meaning you may be able to waive up to six credits if you decide to enroll in a relevant master's degree at AUB later."
+  },
+  {
+    "program": "AI & Data Science Diploma",
+    "question": "How can I get more information about the AI & Data Science program?",
+    "answer": "For more information, you can contact the program via WhatsApp at +961013766 or by email at ds-ai@aub.edu.lb."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "Tell me about the Project Management Diploma program.",
+    "answer": "The Online Professional Graduate Diploma in Project Management provides a comprehensive understanding of managing complex projects. It equips you with the necessary skills to organize, plan, and execute projects on time and in full, making it suitable for both fresh graduates and working professionals looking to develop their project management skills."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "When does the Project Management Diploma program start?",
+    "answer": "The program is scheduled to start on January 12, 2026."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What is the application deadline for the Project Management Diploma program?",
+    "answer": "The application deadline is January 7, 2026."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What is the format and schedule of the Project Management Diploma?",
+    "answer": "The diploma is 100% online and consists of 6 courses (12 credits). The schedule includes pre-recorded lectures for self-paced learning within regular deadlines, plus one live online interactive session per week with instructors and peers. These sessions are recorded for later viewing. An optional site visit is also available for hands-on learning."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "Does the Project Management Diploma program prepare me for the PMP exam?",
+    "answer": "Yes, for those interested in getting their PMP certification, the program offers a PMP® exam preparation course as an elective. This course is designed to get you ready to sit for and pass the PMP® exam."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "Can I take the PMP course à la carte?",
+    "answer": "Yes, you can take the PMP course as an individual à la carte course or as one of the elective courses within the diploma."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What are the benefits of pursuing the Project Management Diploma program?",
+    "answer": "The benefits include: \n1- Earning a respected certificate from AUB and ZAKA. \n2- A flexible 8-week online structure to fit your schedule. \n3- Localized examples and insights into Arabic LLMs. \n4- An impactful and financially accessible program. \n5- Hands-on experience with real-world AI tools. \n6- Building a crucial understanding of responsible AI use."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "Who is eligible to enroll in the Project Management Diploma program and what are the requirements?",
+    "answer": "The program is for fresh graduates from all backgrounds and working professionals in project-related fields. Applicants must have: 1- An undergraduate bachelor's degree from a recognized institution. 2- A GPA of 3.0 or higher in the last two years of study, or strong work experience. 3- The English Language Proficiency Requirement (ELPR)."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "Can I enroll in the Project Management Diploma program without a bachelor's degree?",
+    "answer": "A bachelor's degree is required to enroll in the PM online diploma program. However, if you do not have a bachelor's degree, you can take the courses individually (à la carte) and will receive a certificate of completion for each one."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What are the English language proficiency requirements?",
+    "answer": "Applicants need to provide a valid score from one of the following tests: AUB-EN (minimum score 32, valid for 1 year), TOEFL iBT (minimum score 80, valid for 2 years), IELTS Academic (minimum score 6.5, valid for 2 years), or Duolingo (minimum score 120, valid for 2 years). Applicants who graduated from a university where English is the primary language of instruction may be exempt."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What skills will I gain from the Project Management Diploma program?",
+    "answer": "You will gain: 1- A comprehensive understanding of technical and business-related project issues. 2- Readiness to sit for the PMP® exam. 3- Skills for managing complex projects, including planning, control, and risk management. 4- Leadership, communication, and critical thinking skills. 5- Hands-on experience through real-world projects."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What is the program curriculum and structure?",
+    "answer": {
+      "overview": "To complete the diploma, you need to take 6 courses: 2 core courses and 4 elective courses from the tracks below.",
+      "track_1": {
+        "name": "Construction Management",
+        "core_courses": [ "Fundamentals of project management", "Project planning, scheduling and control", "Construction project delivery and contracting", "Construction contract administration and legal aspects" ]
+      },
+      "track_2": {
+        "name": "Adaptive and Strategic Project Management",
+        "core_courses": [ "Fundamentals of project management", "Project planning, scheduling and control" ]
+      },
+      "electives": {
+        "instruction": "Electives are chosen from the following list based on your track requirements:",
+        "list": [ "Agile project management", "Accounting and finance for project managers", "Lean project management", "Software project management", "Conflict resolution in project management", "Project risk management", "Project leadership and communication", "PMP Exam – preparation course", "Procurement and supply chain in project management" ]
+      }
+    }
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What is the cost of the Project Management Diploma and are there any discounts?",
+    "answer": "The full Project Management diploma costs $3,600. You can 'pay as you go' with individual courses costing $600 each ($300 per credit). For discounts, there is a 10% reduction for early bird payment. Additionally, AUB alumni and members of the Lebanese Army are eligible for a 15% discount."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What are the available payment methods?",
+    "answer": "You can pay online through a payment gateway link or by cash at the AUB cashier's office. Corporate tuition rates are also available; you should schedule a call with the program for more information."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What is the refund policy for the Project Management Diploma?",
+    "answer": "Refunds are permitted only within the first seven days of the course's start date, allowing you to assess if the program is a good fit."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What is the minimum passing grade for the Project Management Diploma?",
+    "answer": "The minimum passing grade for courses within this diploma is 70, which corresponds to a C+."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What is the typical class profile for the Project Management Diploma?",
+    "answer": "Class profiles vary, but our online certificates generally attract a diverse group of students in terms of professional experience, industry, and geography, which fosters a rich peer learning and networking environment."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "Who are the instructors of the Project Management Diploma?",
+    "answer": [
+      { "name": "Fadl Bdeir", "expertise": "PhD. Expert in organisational management, leadership, sustainability, and innovation." },
+      { "name": "Farah Demachkieh", "expertise": "PhD. Expert in contract administration, claims and disputes, and project controls." },
+      { "name": "Mayssa Kalash", "expertise": "PhD. Expert in Project Management, Project Delivery Methods, and Lean Methods." },
+      { "name": "Hiam Khoury", "expertise": "Associate Professor. Expert in intelligent monitoring and modeling of construction resources." },
+      { "name": "Bacel Maddah", "expertise": "Professor and Chair. Expert in Retail, Supply Chain, and Stochastic Processes." },
+      { "name": "Imad Moukaddem", "expertise": "PhD. Expert in Software Engineering, Software Architecture, and Data Science." },
+      { "name": "Nabil Nehme", "expertise": "PhD. International Expert in Transport and Infrastructure Economics, and Supply Chain Strategy." },
+      { "name": "Youssef Saad", "expertise": "M.E. Expert in Project, Procurement and Contract Management." },
+      { "name": "Daoud Kiomojian", "expertise": "Manager. Expert in Academic and Industry Applications of Project Management." }
+    ]
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What kind of certificate do I get upon completion of the Project Management Diploma?",
+    "answer": "Upon completion, you will receive a professional diploma issued by the Maroun Semaan Faculty of Engineering and Architecture (MSFEA), signed by the Dean and relevant Director. You will receive a digital copy approximately two weeks after grading is complete, and a hard copy can be issued upon request."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "What is the value of AUB's professional diplomas?",
+    "answer": "Our professional diplomas focus on upskilling you in high-demand job market areas with practical skills. They also carry an academic bearing, which may allow you to waive up to six credits if you enroll in a relevant master's degree at AUB in the future."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "How long will I have access to the learning materials of the Project Management Diploma?",
+    "answer": "You will have access to the online learning platform and course content for 12 months after the program's end date."
+  },
+  {
+    "program": "Project Management Diploma",
+    "question": "How can I get more information about the Project Management Diploma?",
+    "answer": "For more information, you can contact the program via WhatsApp at +96170013835 or by email at pmponline@aub.edu.lb."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "Tell me about the program.",
+    "answer": "The 'Sustainability in the Built Environment' online graduate professional diploma provides you with the fundamental skills to tackle the main challenges to the sustainability of buildings, neighborhoods, and infrastructure, particularly in the Arab region. Tailored for engineers and architects, this program will equip you with the essential skills and tools needed to design sustainable projects."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "When does the program start?",
+    "answer": "The program is scheduled to start on September 15, 2026."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What is the application deadline?",
+    "answer": "The application deadline for this program is September 8, 2025."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What is the delivery format of the diploma?",
+    "answer": "All courses are 100% online, offering a personalized pace with regular deadlines. The program culminates in a Capstone Design Project."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What are the tuition fees and payment options?",
+    "answer": "The total program tuition is $4,200. There are flexible payment options, including a 'Pay as you go' plan at $700 per course. You can also get a 10% 'Early bird' reduction by paying in full before the program starts. Payments can be made online via a payment gateway link or by cash at the AUB cashier's office."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What are the benefits of pursuing this program?",
+    "answer": "Key benefits include: 1- Learning to tackle sustainability challenges from a regional perspective. 2- Gaining in-demand skills for top job opportunities. 3- Participating in a multidisciplinary capstone project. 4- Experiencing hands-on learning through an optional on-site visit. 5- Networking with regional industry experts and AUB faculty. 6- Earning a diploma from AUB, ranked 138th worldwide for sustainability."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "Who is eligible to pursue this program?",
+    "answer": "The program is designed for Engineers, Architects, and Planners. Applicants must have an undergraduate bachelor's degree in engineering or architecture from a recognized institution and meet the English Language Proficiency Requirement (ELPR)."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "Can I enroll before I have graduated?",
+    "answer": "Yes, you can enroll if you have a maximum of one year left to complete your undergraduate degree."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What are the English language proficiency requirements?",
+    "answer": "Applicants must provide a valid score from one of the following tests: AUB-EN (minimum score 32, valid for 1 year), TOEFL iBT (minimum score 80, valid for 2 years), IELTS Academic (minimum score 6.5, valid for 2 years), or Duolingo (minimum score 120, valid for 2 years). An exemption may be granted to applicants who graduated from a university where English is the primary language of instruction."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What skills will I gain from this diploma?",
+    "answer": "You will gain: 1- An in-depth understanding of climate change's relation to the built environment. 2- Proficiency in sustainability assessment. 3- Decision-making skills for a sustainable future. 4- Knowledge of building physics, systems, adaptation, and resilience. 5- The ability to work within multidisciplinary teams. 6- Readiness to sit for the LEED Green Associate (GA) or Pearl Qualified Professional (PQP) international accreditation."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What is the program curriculum?",
+    "answer": {
+      "courses": [
+        "Socio-ecological systems & sustainability in the MENA region",
+        "Environmental life cycle assessment (LCA)",
+        "Construction materials circularity",
+        "Environmentally responsive new and existing buildings",
+        "Resilient buildings’ design",
+        "Building rating system",
+        "Capstone project"
+      ]
+    }
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What is the study plan?",
+    "answer": "The program offers a 1 year+ part-time study plan. This plan is created for working individuals, providing the balance needed between pursuing studies and managing professional commitments by taking only one course per semester."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What is the course schedule like?",
+    "answer": "The courses consist of pre-recorded lectures that can be accessed at your convenience, but you must adhere to regular deadlines. Each course includes one live online interactive session per week with instructors and peers. These live sessions are recorded in case you cannot attend. There is also an option to go on a site visit for hands-on learning."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "Who are the instructors?",
+    "answer": [
+      {
+        "name": "Douaa Al Assaad",
+        "expertise": "Postdoctoral researcher. Expert in Building Physics and Sustainable design for human well-being."
+      },
+      {
+        "name": "Sarah Jaber",
+        "expertise": "Associate Director of Sustainability. Expert in strategy & framework development, circular economy, and green building."
+      },
+      {
+        "name": "Rima Manneh",
+        "expertise": "PhD in Chemical Engineering. Sustainability Independent Consultant and expert in Life Cycle Assessment (LCA)."
+      },
+      {
+        "name": "Walid Saad",
+        "expertise": "Associate Professor. Sustainability champion with diverse industrial, startup, and consulting experience."
+      },
+      {
+        "name": "Issam Srour",
+        "expertise": "Professor. Expert on quantitative techniques, circular economy, and sustainability principles in engineering."
+      },
+      {
+        "name": "Alissar Yehya",
+        "expertise": "Assistant Professor. Co-founder of a circular supply chain tech startup. Expert in sustainable systems and circular design."
+      },
+      {
+        "name": "Aram Yeretzian",
+        "expertise": "Assistant Professor. Advocate for climate responsive and low environmental impact architecture."
+      },
+      {
+        "name": "Rami Zurayk",
+        "expertise": "Professor of Ecosystem Management. Expert on Food System Resilience and Sustainability."
+      }
+    ]
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What certificate do I get upon completion and what are its details?",
+    "answer": "Upon program completion, you will receive a professional diploma certificate issued by the Maroun Semaan Faculty of Engineering and Architecture (MSFEA). The certificate does not state 'online' and it does not have an expiry date."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "Are there any scholarship or financial aid opportunities?",
+    "answer": "Currently, there are no financial aid or scholarship offers for online programs. However, you can receive a 10% deduction on the tuition fee by taking advantage of the 'early bird' offer and paying in full before the program starts."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What is the refund policy?",
+    "answer": "Refunds are allowed only within the first seven days of the course start date. This period is designed to let you assess the course content and determine if the program is a good fit."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What is the minimum passing grade?",
+    "answer": "The minimum passing grade for the courses within this diploma is 70, which corresponds to a C+."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "What is the value of AUB's professional diplomas?",
+    "answer": "The professional diplomas are valuable for upskilling in high-demand job market areas and providing practical skills. They also have an academic bearing, which could allow you to waive up to six credits if you later enroll in a relevant master's degree at AUB."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "Can I freeze my enrollment?",
+    "answer": "Yes, you can freeze your enrollment one time only, for a maximum period of one semester."
+  },
+  {
+    "program": "Sustainability in the Built Environment Diploma",
+    "question": "How can I get more information?",
+    "answer": "For more information, you can contact the program via WhatsApp at +96170013766 or by email at SBEdiploma@aub.edu.lb."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What are the English language proficiency requirements for the UX/UI diploma?",
+    "answer": "To prove English proficiency, applicants must submit a valid score from one of these tests: AUB-EN (minimum score 32, valid for 1 year), TOEFL iBT (minimum score 80, valid for 2 years), IELTS Academic (minimum score 6.5, valid for 2 years), or Duolingo (minimum score 120, valid for 2 years). An exemption is possible for graduates of universities where English is the primary language of instruction."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "Do I need a design background to enroll in the UX/UI diploma?",
+    "answer": "No, a design background is not required. You can take the one-credit prerequisite course, 'Design Principles / UI Design for Non-designers,' to learn the main principles and best practices of design. Completing this prerequisite will prepare you to start the UX/UI program."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "When does the UX/UI program start?",
+    "answer": "The program starts on January 12, 2026."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "Are the courses online?",
+    "answer": "Yes, all courses are fully online."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What is the course schedule like for the UX/UI program?",
+    "answer": "The courses are made up of pre-recorded lectures that you can access at your convenience. Each course also includes one weekly online live interactive session with instructors and fellow students. All live sessions are recorded in case you are unable to attend."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "How long does it take to complete the UX/UI program?",
+    "answer": "The program can be completed in less than a year."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What is the tuition for the UX/UI program?",
+    "answer": "The total tuition ranges between $3,600 and $3,900, depending on whether you need to take the prerequisite course."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What are the methods of payment for tuition?",
+    "answer": "You can settle tuition fees by either paying online, in which case you will receive a payment gateway link, or by paying with cash at AUB, for which an invoice will be issued for you to present at the cashier's office."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "Are there flexible payment options for the UX/UI program?",
+    "answer": "Yes. You can pay as you go per course at $600 each term, or take advantage of the early bird discount by paying the full tuition in advance to receive a 10% reduction, bringing the total down to $3,600 or $3,900 if you need the prerequisite course."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What is the application deadline for the UX/UI program?",
+    "answer": "The application deadline is January 7, 2026."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What do I receive when I complete the UX/UI diploma?",
+    "answer": "Upon completion, you will receive a professional diploma certificate issued by the Maroun Semaan Faculty of Engineering and Architecture (MSFEA). The certificate is signed by the Dean of MSFEA and the Director of the Abdulla al Ghurair Hub for Digital Teaching and Learning."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "Does the diploma certificate explicitly state that the program is 'online'?",
+    "answer": "No, the diploma does not state 'online'. All our programs are high-quality educational offerings from AUB faculty members and industry experts that utilize advanced online learning technology."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "Does the diploma have an expiration date?",
+    "answer": "No, the diploma does not have an expiry date."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "Are there any scholarship or financial aid opportunities?",
+    "answer": "Currently, there are no specific financial aid or scholarship offers for online programs. However, you can receive a 10% discount by paying the full tuition fee early through the 'early bird seat' offer."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What is the refund deadline?",
+    "answer": "Refunds are only available within seven days of the course start date. This period allows you to experience the course content and decide if it is a good fit for you."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What is the minimum passing grade for the courses to receive the diploma?",
+    "answer": "The minimum passing grade for the courses in this diploma is 70 (C+)."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What is the value of AUB's professional diplomas?",
+    "answer": "Our professional diplomas are valuable because they help you upskill in high-demand job market areas with practical knowledge. They also have an academic bearing, which might allow you to waive up to six credits if you choose to enroll in a related master's degree at AUB in the future."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What is the UX/UI Online Diploma program about?",
+    "answer": "The UX/UI program is a professional diploma that introduces students to user experience (UX) and user interface (UI) design through a design-centric approach. It provides skill-based instruction focused on 'Design Thinking' processes and agile production, covering user research, project strategy, sitemaps, wireframes, and more. Students gain hands-on experience and real-life industry applications."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What are the benefits of the UX/UI program?",
+    "answer": "Benefits include learning UX/UI even without prior design experience, designing intuitive human-centered experiences, benefiting from Arabic-speaking instructors, joining the first regional academic UX/UI program, getting certified in less than a year, and becoming an expert in regionally relevant designs such as right-to-left interfaces."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "Who are the best candidates for the UX/UI program?",
+    "answer": "The program is ideal for professionals working in tech or design agencies, graphic or instructional designers seeking to expand their expertise, entrepreneurs developing prototypes for investors, and young professionals seeking an in-demand skill. Applicants must hold a bachelor’s degree from a recognized institution and meet the English Language Proficiency Requirement (ELPR)."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What skills will I gain from the UX/UI program?",
+    "answer": "You will learn user-centered design principles, personas, and journey mapping; work on hands-on projects and real-life case studies; design visually appealing and user-friendly interfaces for both left-to-right and right-to-left languages; use advanced tools like Figma; and master the creation of prototypes."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What does the curriculum of the UX/UI program include?",
+    "answer": "The curriculum includes a prerequisite course for non-designers on design principles, followed by six core courses: Design Research for Innovation and Change, Interaction Design I, Interaction Design II, Interaction Design III, Interaction Design IV, and UX Strategy and Management."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "What study plans are available for the UX/UI program?",
+    "answer": "You can choose a 9-month full-time study plan, ideal for those who can dedicate themselves fully to their studies, or a 1-year part-time study plan, designed for working professionals balancing education with other commitments."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "Who are the instructors for the UX/UI program?",
+    "answer": "The instructors include Maher Berro (Interaction Designer), Lara Chikhani (Design & Product Management Lead), Stephanie Assio (Experience & Innovation Consultant), Tarek El Khatib (Associate Experience Designer at EPAM), Sabah Haider (User Experience Research Lead), and Romy Saber (CMO at Suyool)."
+  },
+  {
+    "program": "UX/UI Online Diploma",
+    "question": "How can I contact the UX/UI program team?",
+    "answer": "You can contact the team via WhatsApp at +96170013835 or by email at uxuionline@aub.edu.lb."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What are the English language requirements for the online programs?",
+    "answer": "Applicants must provide evidence of English proficiency by submitting a valid score from one of these tests: AUB-EN (minimum score 32), TOEFL iBT (minimum score 80), IELTS Academic (minimum score 6.5), or Duolingo (minimum score 120). Applicants who graduated from a university where English is the primary language of instruction may be exempt."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What will I receive upon completing the ITC program?",
+    "answer": "Upon program completion, you will receive a professional certificate issued by the Maroun Semaan Faculty of Engineering and Architecture (MSFEA), signed by the Dean and the Director of the Abdulla al Ghurair Hub for Digital Teaching and Learning."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Does the certificate state that the program is 'online'?",
+    "answer": "No, the certificate does not mention that the program is online."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Does the certificate have an expiry date?",
+    "answer": "No, the certificate does not have an expiry date."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Are there any special discounts available besides the early bird offer for the ITC program?",
+    "answer": "Yes. In addition to the 10% early bird discount, we also offer special corporate discounts for groups of five or more. We encourage you to explore potential company sponsorship options for yourself and your team."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "When is the refund deadline?",
+    "answer": "Refunds are allowed only within seven days of the course start date."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "When does the ITC program start?",
+    "answer": "The program starts on September 29, 2025."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What is the application deadline for the ITC program?",
+    "answer": "The application deadline is September 25, 2025."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "How long does a typical ITC program last?",
+    "answer": "The program generally consists of 4 courses completed over 4 months, with a pace of one course per month."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What is the weekly time commitment for the ITC program?",
+    "answer": "The program requires an average of 5 to 6 hours of work per week."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What is the tuition fee for the ITC program?",
+    "answer": "The total tuition is $1,750 for the full program."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Is there a per-course tuition option for the ITC program?",
+    "answer": "Yes. The tuition per course is $437.50."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Are there any tuition discounts available for the ITC program?",
+    "answer": "Yes. An early bird discount is available for those who pay in full before the program starts, reducing the total tuition to $1,575 instead of $1,750."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Is the ITC program fully online?",
+    "answer": "The program offers flexibility. It is primarily delivered fully online through modules and live workshops, but a hybrid format with in-person workshops can be arranged based on demand."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What is the learning pace like for the ITC program?",
+    "answer": "The learning is a blend of self-paced study of weekly online modules and assignments, combined with live, interactive instructor sessions that offer personalized feedback. Each course also has a concluding workshop for practical application."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Will I get feedback on my work?",
+    "answer": "Yes, you will apply what you learn to your ongoing work each week and receive personalized feedback from technical communication experts."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Are there any live sessions or workshops?",
+    "answer": "Yes, each course includes an interactive one-day workshop, which may be conducted online or in person based on demand."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What is the ITC program about?",
+    "answer": "The Intelligent Technical Communication (ITC) certificate equips technical professionals, especially those working in MENA contexts, with the skills to communicate complex ideas with clarity, impact, and technical fluency. It integrates human, emotional, and artificial intelligence to help participants deliver audience-centered communication across verbal, written, and visual formats."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What is the core focus of the Intelligent Technical Communication certificate?",
+    "answer": "The certificate equips technical professionals, especially in MENA contexts, to communicate complex ideas with clarity and impact. It strategically emphasizes three core elements: Human Technical Intelligence and Expertise, Emotional Intelligence in Communication, and Leveraging Artificial Intelligence Tools."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What are the main highlights of the ITC program?",
+    "answer": "The program emphasizes three core areas: \n1) Human Technical Intelligence and Expertise, helping participants communicate complex information effectively across formats, \n2) Emotional Intelligence in Communication, enhancing interpersonal skills such as empathy and active listening, and \n3) Leveraging Artificial Intelligence Tools, using AI ethically to streamline workflows and improve communication."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What are the key learning expectations for the ITC program?",
+    "answer": "Students are expected to practice clear communication of complex technical content in written, verbal, and visual formats. They will apply concepts to their daily work, receive personalized feedback, develop reflexive skills for the MENA context, gain hands-on experience with AI tools, and participate in interactive workshops to build confidence."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What are the unique benefits of the ITC program?",
+    "answer": "Unique benefits include enhanced emotional and interpersonal intelligence, industry-relevant communication skills, improved work output, AI-enhanced communication tools, culturally and ethically grounded communication, and a personalized hybrid and interactive learning experience."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What skills will I gain from the ITC program?",
+    "answer": "You will gain skills in effective data narration, emotionally intelligent communication, AI-enhanced presentation design, culturally sensitive technical writing, and AI-powered visual storytelling."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "What does the course path for the ITC program look like?",
+    "answer": "The program consists of four courses completed over four months. The path is: Month 1: Strategies for Technical Communication, Month 2: Effective Technical Writing, Month 3: Data Visualization and Visual Narratives, and Month 4: Designing and Delivering Technical Presentations."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Who is the ideal candidate for the Intelligent Technical Communication program?",
+    "answer": "The program is designed for engineers from various disciplines and other technical professionals such as STEM practitioners, project managers, and technical sales professionals who want to enhance their communication skills for professional growth."
+  },
+  {
+    "program": "ITC Diploma",
+    "question": "Who is the instructor for the ITC program?",
+    "answer": "The program is led by Niveen Abi Ghannam, Director of the Communication Program at MSFEA, an experienced researcher and educator in science and technical communication with over a decade of teaching experience at the University of Texas at Austin and the American University of Beirut (AUB)."
+  },
+  {
+    "program": "ITC",
+    "question": "How can I learn more about the ITC program or schedule a consultation?",
+    "answer": "You can schedule a personalized 1-on-1 session with our enrollment coaches. Please refer to the official program page on the AUB website for a link to schedule a session."
+  },
+  {
+    "program": "ITC",
+    "question": "How do I apply for the ITC program?",
+    "answer": "You can apply for the program through the official application page, which can be found on the AUB website."
+  },
+  {
+    "program": "ITC",
+    "question": "Can I enroll in the ITC certificate regardless of my academic background?",
+    "answer": "You can enroll in this certificate if you studied a major in the STEM field, engineering or architecture."
+  },
+  {
+    "program": "ITC",
+    "question": "Can I enroll in the ITC certificate if I am not a holder of a bachelor's degree?",
+    "answer": "Yes, you can. You will receive a certificate of completion for the courses instead of an official professional certificate."
+  },
+  {
+    "program": "ITC",
+    "question": "How can I contact the ITC program team?",
+    "answer": "You can reach the program team via WhatsApp at +96181083725 or by email at commscertificate@aub.edu.lb."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "What is the mission of MSFEA?",
+    "answer": "We offer world-class educational programs that prepare students for the engineering, architecture, and design professions. Rooted in the liberal education model, our programs also prepare students to be engaged citizens and leaders, entrepreneurs, and researchers who deploy their skills with ingenuity, integrity, and a sense of responsibility towards future generations. Our faculty produces transformative knowledge and technology through internationally-recognized research and design, and seeks to leverage the special contexts of Lebanon and the region to define highly novel and relevant research programs. We impact policy and practice through our alumni and by directly engaging industry, government, and the public at large."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "What is the vision of MSFEA?",
+    "answer": "A viable, livable, equitable world."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "What is the historical background of MSFEA?",
+    "answer": "The Maroun Semaan Faculty of Engineering and Architecture (MSFEA) at AUB, named in 2017 after alumnus and philanthropist Maroun Semaan, traces its engineering education roots back to 1913, awarding its first civil engineering degree in 1944. The School of Engineering was founded in 1951, later expanding to include new undergraduate, master’s, and PhD programs across multiple disciplines, as well as initiatives like the Career Development Center (2002). Today, MSFEA is AUB’s second-largest faculty, with over 2,300 undergraduates, 350 master’s students, nearly 100 PhD students, and 175+ faculty. Since 2017, under Dean Alan Shihadeh, the faculty has embraced innovation, pedagogy reform, and socially responsible research, symbolized by the FEA Graduate’s Oath. The faculty’s growth has been supported by major alumni and donor contributions, funding key facilities like the Bechtel Engineering Building, Ray R. Irani Oxy Engineering Complex, and upcoming Munib & Angela Masri Building, as well as endowed departments, chairs, research hubs, scholarships, and fellowships that strengthen its academic and research mission."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "Who is the dean of MSFEA?",
+    "answer": "Alan Shihadeh is Professor and Dean of the Maroun Semaan Faculty of Engineering and Architecture at the American University of Beirut (AUB). He leads initiatives to digitize learning, re-integrate human-centered design in STEM, expand educational access, build regional partnerships for sustainable enterprise, and leverage the Arab region’s context for innovative research toward a more equitable world. Shihadeh is the founding director of AUB’s Aerosol Research Laboratory and a leading researcher on particle pollutants, with 130+ peer-reviewed publications. His work has shaped Lebanon’s tobacco control law, led to bans on leaded fuel and certain diesel vehicles, and influenced international standards for waterpipe tobacco smoke testing. He directs projects for the Virginia Commonwealth Center for the Study of Tobacco Products (an FDA Center of Regulatory Science) and has developed research technologies used worldwide. Recognized as a Clarivate Highly Cited Researcher and winner of the APA Prize for Interdisciplinary Team Research, Shihadeh’s work has been funded by NIH, FDA, and Canada’s IDRC. He earned his BS at the University of Texas at Austin, a PhD in mechanical engineering from MIT (1998), taught as a Fulbright fellow at Birzeit University, and has been with AUB since 2000, serving as dean since 2017."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "Who is the Abdulla Al Ghurair Hub for Digital Teaching & Learning at AUB?",
+    "answer": "We’re AUB’s hub advancing world-class online STEM education for the region. Our mission is to promote innovation in education and increase access to high-quality learning for Arab youth, with industry-relevant programs delivered by expert instructors through interactive online experiences."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "What impact have you had so far?",
+    "answer": "We’ve launched 13 programs and reached 3,600+ total enrollments to date."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "Which faculty/unit are you part of?",
+    "answer": "We operate within AUB’s Maroun Semaan Faculty of Engineering & Architecture (MSFEA) in partnership with the Abdulla Al Ghurair Foundation."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "I’m a company, how can we partner with you?",
+    "answer": "Four flexible pathways:\n1.\tTailored Development Workshops (custom training; online, on-site or hybrid),\n2.\tUpskilling Programs (corporate discounts on our existing online programs),\n3.\tAdvisory Roles (co-design curricula, market research, skills gap analysis),\n4.\tTalent Recruitment Support (early access to graduates; job postings via our network). \n5.\tDigitally enhanced courses: we flip courses (partially or completely) from residential to online"
+  },
+  {
+    "program": "General Knowledge",
+    "question": "Do you offer corporate discounts?",
+    "answer": "Yes, 15% for 5+ enrollments and 20% for 10+ enrollments. Tuition is typically $350 per credit; diplomas average $3,600–$4,900."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "Can you run a private workshop for our team?",
+    "answer": "Absolutely. We deliver customized workshops (e.g., PMP exam prep add-ons, UX/UI tool deep dives) that blend exercises, mock exams, or hands-on labs tailored to your context. See examples like Gravitas and the Figma workshop for our UX/UI learners."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "Do you collaborate on industry events or seminars?",
+    "answer": "Yes, examples include the Oryx LLM seminar (software developers/engineers) and our regional TransformED 2025 summit focused on “Empowering Learner Experience.”"
+  },
+  {
+    "program": "General Knowledge",
+    "question": "what activities did the hub have been built since its creation (events, workshops, seminars, summits, etc.)",
+    "answer": "TransformED 2025 (Regional Summit, Sept 18–19) – Brought together educators, entrepreneurs, administrators, and students from across MENA under the theme “Empowering Learner Experience.” Featured keynotes, panels, workshops, and an industry fair. The Hub led the summit narrative and agenda to advance digital transformation and industry–academia alignment. \nGravitas PMP Seminar (March 2025) – A tailored seminar for 16 employees enrolled in our PMP Exam Prep course, focused on group-based applications and mock exams. Facilitated by Dr. Youssef with breakout activities; participants reported significantly improved understanding. \nFigma Workshop (March 2025, 2 cohorts, in-person at AUB) – A 2-day hands-on workshop exclusive to UX/UI diploma learners, strengthening practical skills in prototyping, interaction, and component design with Figma to complement the online curriculum. \nOryx LLM Seminar (Aug 5 & 12, 2025) – A two-day seminar for Oryx developers, tech leads, and engineers on practical large language model use: how LLMs work, prompt optimization, AI-powered coding tools, workflow integration, and building simple agent-like tools—designed for real-world software workflows. \nSTEAM Education Bootcamp 2025 (Workshop/Bootcamp) – A two-day program with educators and principals across Lebanon featuring keynotes (Hub Director Dr. Issam Srour, Dean Alan Shihadeh, Dean Fares Dahdah), panels, interactive learning labs, and tours of AUB faculty/student STEAM projects. Designed as an annual bootcamp for different schools each year. \nAG Hub, AUB × Toastmasters – eLearning Session – A featured collaboration session focused on eLearning practices."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "What online programs are currently available?",
+    "answer": "From our microsite, you’ll find: Sustainability in the Built Environment (GPD), Project Management (GPD), Cybersecurity (GPD), AI & Data Science (GPD), Entrepreneurship & Innovation (GPD), UX/UI (GPD), and Engineering Management (Master’s)."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "Can you share typical format and duration?",
+    "answer": "Most diplomas run 9–12 months, 100% online (asynchronous) with ~12 credits (program-specific). The portfolio includes topic tracks such as AI/LLMs & ethics, UX research to wireframing, project planning & risk, and more (see program cards)."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "Are there entry courses if I’m new to a field?",
+    "answer": "Yes, some programs include 1–3 preparatory courses (1 credit each) for learners without prior background."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "Can you help us flip our courses fully or partially online?",
+    "answer": "Yes. As part of our services, we fully or partially convert (“flip”) face-to-face courses to high-quality online offerings. This typically covers instructional design, content digitization, LMS setup, multimedia/e-assessment design, and faculty enablement—delivered in online, on-site, or hybrid formats to match your needs. (This builds on our tailored development capabilities and online program design expertise.)"
+  },
+  {
+    "program": "General Knowledge",
+    "question": "What’s the typical tuition for online diplomas?",
+    "answer": "Diplomas generally total $3,600–$4,900, with per-credit tuition around $350. Corporate cohorts can access 15%–20% discounts."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "How do I contact you?",
+    "answer": "Phone: +961 81 610 900 · Email: msfeaonline@aub.edu.lb · Instagram: @alghurairhub_msfea_aub."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "Where can I see program overviews and curricula?",
+    "answer": "Check the link for all the programs https://www.aub.edu.lb/msfea/online/Pages/Programs.aspx"
+  },
+  {
+    "program": "General Knowledge",
+    "question": "Do you have employer-sponsored cohorts?",
+    "answer": "Yes; see corporate upskilling and discounts."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "Can we co-design program content?",
+    "answer": "Yes, through Advisory Roles (skills gap analysis, curriculum co-development)."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "Do you support recruiting?",
+    "answer": "Yes, early access to graduates and job announcements across our network."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "Show all online programs",
+    "answer": "Check the link for all the programs https://www.aub.edu.lb/msfea/online/Pages/Programs.aspx."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "How do I express interest?",
+    "answer": "Share the lead form link (Programs event/interest page)."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "What does an ambassador do?",
+    "answer": "Ambassadors represent the program they enrolled in. They support prospective and new students (1-to-1 guidance and welcome sessions), help promote the program through online events and social media, build community by joining discussions and open houses/graduations, and share feedback to improve the learner experience."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "What benefits do Ambassadors receive?",
+    "answer": "They’ll grow their leadership and mentoring skills, get invited to Hub events and networking opportunities, enjoy exclusive studio access for professional photos, and be featured on our website/social channels with Hub merchandise. Ambassadors who help achieve 3 enrollments per year also earn one free online course from our diploma portfolio."
+  },
+  {
+    "program": "General Knowledge",
+    "question": "How do I get started if I’m selected?",
+    "answer": "Once you confirm your interest, we’ll send you a welcome pack with all the details and invite you to an orientation session to meet fellow Ambassadors and learn how to excel in the role. We’ll then coordinate your first activities (e.g., info sessions, welcome calls)."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What is the AI Starter Kit program?",
+    "answer": "The AI Starter Kit is an 8-week, hands-on online professional certificate designed to empower professionals and youth to use AI without needing complex coding knowledge. It is a partnership between AUB and ZAKA, focusing on real-world applications and making AI relevant to the region."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "Who can apply for the AI Starter Kit program?",
+    "answer": "The program is open to anyone interested in learning how to use AI tools effectively. The only specific requirement is English language proficiency."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "Do I need a technical or coding background for the AI Starter Kit program?",
+    "answer": "No, a technical background is not required. The program is specifically designed for total beginners and focuses on applying AI tools without needing to code."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What skills will I learn in the AI Starter Kit program?",
+    "answer": "You will master practical skills and tools for: Automating tasks, analyzing data, creating captivating content (visual, audio, video), and optimizing your daily workflow. The program also focuses on ethical considerations, data privacy, and bias awareness."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "How long is the AI Starter Kit program?",
+    "answer": "The program is structured to be completed in 8 weeks, with one module covered each week."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What is the weekly time commitment for the AI Starter Kit program?",
+    "answer": "The program requires an average of 5 to 6 hours of work per week."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What is the learning format of the AI Starter Kit program?",
+    "answer": "The program uses a flexible format that includes online self-paced modules with regular deadlines, live online hands-on sessions, and real-world applications."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "Is the AI Starter Kit program's content relevant to the MENA region?",
+    "answer": "Yes, the program is designed to be highly relevant to the region. It features localized content and provides insights into both English and Arabic Large Language Models (LLMs)."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What topics are covered in the AI Starter Kit program?",
+    "answer": "The 8-week program covers: \nWeek 1: Getting Started with Artificial Intelligence\nWeek 2: Generative AI and Large Language Models\nWeek 3: AI-Powered Insight and Action\nWeek 4: Workflow Optimization and Task Automation\nWeek 5: Creating Visual, Audio, and Video Content with AI\nWeek 6: Enhancing Digital Productivity through AI\nWeek 7: AI-Enhanced Reporting and Visualization\nWeek 8: Responsible and Ethical Use of AI in the Workplace"
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What certificate do I receive upon completion of the AI Starter Kit program?",
+    "answer": "Upon successful completion, you will receive a professional certificate issued by AUB's Maroun Semaan Faculty of Engineering and Architecture (MSFEA). The certificate reflects both AUB's academic excellence and ZAKA's industry expertise."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "When does the AI Starter Kit program start?",
+    "answer": "The program is scheduled to start on January 12, 2026."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What is the application deadline for the AI Starter Kit program?",
+    "answer": "The deadline to apply for the program is January 7, 2026."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "Is the AI Starter Kit program fully remote?",
+    "answer": "Yes, the program is fully remote, and all modules are 100% online."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What is the structure and duration of the AI Starter Kit program?",
+    "answer": "The program consists of 8 modules and is designed to be completed in 8 weeks."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "How much does the AI Starter Kit program cost?",
+    "answer": "The tuition fee for the program is $20."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What is the weekly time commitment for the AI Starter Kit program?",
+    "answer": "The program requires an effort of 5 to 6 hours per week."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "Do I need any previous experience in AI?",
+    "answer": "No, previous experience is not required. This program is specifically designed for beginners."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "Who is the AI Starter Kit program for?",
+    "answer": "This program is for anyone interested in learning how to use AI tools effectively. No prior knowledge is needed, but English language proficiency is required."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What skills will I acquire in the AI Starter Kit program?",
+    "answer": "You will acquire several skills, including: 1- Understanding Core AI fundamentals. 2- Mastering AI Prompting in English and Arabic. 3- Analyzing Data with AI to interpret data and create reports. 4- Automating Tasks without coding. 5- Creating AI Multimedia like images, audio, and video. 6- Using AI Responsibly by understanding ethics, bias, and privacy."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What are the benefits of taking the AI Starter Kit program?",
+    "answer": "The benefits include: \n1- Earning a respected certificate from AUB and ZAKA. \n2- A flexible 8-week online structure to fit your schedule. \n3- Localized examples and insights into Arabic LLMs. \n4- An impactful and financially accessible program. \n5- Hands-on experience with real-world AI tools. \n6- Building a crucial understanding of responsible AI use."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "What is the curriculum for the AI Starter Kit program?",
+    "answer": "The curriculum is spread over 8 weeks: \n1- Getting started with artificial intelligence. \n2- Generative AI and Large Language Models. \n3- AI-Powered insight and action. \n4- Workflow optimization and task automation. \n5- Creating visual, audio, and video content with AI. \n6- Enhancing digital productivity through AI. \n7- AI-enhanced reporting and visualization. \n8- Responsible and ethical use of AI in the workplace."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "Who is the instructor for the AI Starter Kit program?",
+    "answer": "The instructor is Ammar Mohanna, PhD in Electrical and Computer Engineering. He is a Lecturer and AI Consultant with deep expertise in machine learning, MLOps, explainable AI, and edge AI, focusing on translating research into real-world applications."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "Who is the content partner for the AI Starter Kit program?",
+    "answer": "The content partner is ZAKA, a leading AI consulting and training company committed to democratizing AI knowledge across the MENA region. They partner with major organizations like Microsoft, Samsung, and Google to offer large-scale AI training."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "Are there office hours available?",
+    "answer": "Yes, the program includes virtual office hours with the instructor."
+  },
+  {
+    "program": "AI Starter Kit Diploma",
+    "question": "Who can I contact for more information about the AI Starter Kit program?",
+    "answer": "For more information, you can contact the program team at aistarterkit@aub.edu.lb."
+  }
+]
