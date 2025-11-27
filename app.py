@@ -1,12 +1,9 @@
 import streamlit as st
 import os
 
-# --- THIS MUST BE THE VERY FIRST THING ---
 if "OPENAI_API_KEY" in st.secrets:
     os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
-# -----------------------------------------
 
-# Now import the rest
 from langchain_agent import create_aub_agent, process_user_query
 from langchain_community.callbacks import StreamlitCallbackHandler
 from utils import escape_markdown
