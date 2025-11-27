@@ -4,6 +4,10 @@ from langchain_community.callbacks import StreamlitCallbackHandler
 from utils import escape_markdown
 
 import os
+
+if "OPENAI_API_KEY" in st.secrets:
+    os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+
 # Page configuration
 st.set_page_config(
     page_title="AUB Student Assistant",
